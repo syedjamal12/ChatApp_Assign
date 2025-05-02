@@ -1,4 +1,6 @@
-If you got Database connection error please use this on server .env file:
+**Please read this**
+
+**If you got Database connection error please use this on server .env file:**
 
 DATABASE_URL=postgresql://postgres.xfbvguingdizujdjhypc:MDhasnat123@aws-0-ap-south-1.pooler.supabase.com:5432/postgres
 
